@@ -38,5 +38,5 @@
 </div>
 
 <div align="center">
-  <p>Que a graça e a paz do nosso Senhor Jesus Cristo esteja com vocês!</p>
+  <p>May the grace and peace of our Lord Jesus Christ be with you!</p>
 </div>
