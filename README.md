@@ -25,7 +25,6 @@
   </h4>
   
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Notion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
