@@ -3,7 +3,7 @@
     Hello, I'm Bruno Nolasco<span color='#5BA37B'>.</span>
   </h2>
   
-  <p>Infrastructure intern at Iavne College and Software Engineer Junior at Nizzi Tech</p>
+  <p>Infrastructure intern at Iavne College and FrontEnd Engineer Junior at Nizzi Tech</p>
   
   <h4>
     Studying:
