@@ -1,4 +1,7 @@
 <div>
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5839a0&descAlign=9&descAlignY=0&reversal=true"/>
+  
   <h2>
     Hello, I'm Bruno Nolasco<span color='#5BA37B'>.</span>
   </h2>
