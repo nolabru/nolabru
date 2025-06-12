@@ -6,7 +6,7 @@
     Hello, I'm Bruno Nolasco<span color='#5BA37B'>.</span>
   </h2>
   
-  <p> Software Engineer Junior at Izzi Tech</p>
+  <p> Software Engineer Pleno at InventuAI</p>
   
   <h4>
     Studying:
